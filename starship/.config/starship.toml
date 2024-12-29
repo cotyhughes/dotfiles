@@ -1,0 +1,7 @@
+
+
+add_newline = false
+
+[package]
+format = "[$symbol ]($style)"
+
